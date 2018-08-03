@@ -9,7 +9,7 @@ The two players (here one is the ai) take turns; each player can, on a same line
 
 The losing player is the one to take the last matchstick.
 
-The goal here is to make the aa remove the last match. Good Luck!
+The goal here is to make the ai remove the last match. Good Luck!
 
 ---
 
